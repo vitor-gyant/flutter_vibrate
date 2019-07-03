@@ -1,6 +1,9 @@
 name: vibrate_example
 description: Demonstrates how to use the vibrate plugin.
 
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
